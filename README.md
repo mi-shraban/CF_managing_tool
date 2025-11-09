@@ -1,5 +1,5 @@
 # CF_managing_tool
-A cli tool I created and have been using for years to make codeforces problem solving a little painless, with automated file management and template fetching.
+A tool I created and have been using for years to make codeforces problem solving a little painless, with automated file management and template fetching.
 
 ## How to use: ##
 - Clone this repo to Documents or Desktop or any other directory.
