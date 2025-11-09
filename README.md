@@ -1,6 +1,5 @@
 # CF_managing_tool
 A cli tool I created and have been using for years to make codeforces problem solving a little painless, with automated file management and template fetching.
-<br/>Now, I've also built a GUI version ;-; Just open the CF_gui_tool.exe file to use it.
 
 ## How to use: ##
 - Clone this repo to Documents or Desktop or any other directory.
@@ -9,5 +8,6 @@ A cli tool I created and have been using for years to make codeforces problem so
 - Write in ```python cf.py```
 - Next on follow the cli tool's instructions.
 - code files will be stored in the ```./CF_cli_tool/cf_solves``` directory file.
+- Now, I've also built a GUI version ;-; Just open the ```CF_gui_tool.exe``` file to use it.
 
 ## Feel free to improve and contribute to the tool. ##
