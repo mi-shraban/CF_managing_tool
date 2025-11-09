@@ -9,6 +9,8 @@ A cli tool I created and have been using for years to make codeforces problem so
 - Next on follow the cli tool's instructions.
 - code files will be stored in the ```./CF_cli_tool/cf_solves``` directory file.
 
-## Now, I've also built a GUI version ;-; Just open the ```CF_gui_tool.exe``` file to use it [Just download the repo as a zip, then unzip and use the GUI tool].
+## Now, I've also built a GUI version ;-;
+- Clone this repo.
+- Just open the ```CF_gui_tool.exe``` file to use it.
 
 ## Feel free to improve and contribute to the tool. ##
