@@ -12,5 +12,6 @@ A tool I created and have been using for years to make codeforces problem solvin
 ## Now, I've also built a GUI version ;-;
 - Clone this repo.
 - Just open the ```CF_gui_tool.exe``` file to use it.
+- However, the CLI tool is simply bettter.
 
 ## Feel free to improve and contribute to the tool. ##
